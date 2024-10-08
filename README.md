@@ -1,1 +1,1 @@
-# simple-interest.sh
+ simple-interest.sh
